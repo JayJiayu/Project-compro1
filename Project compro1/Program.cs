@@ -465,7 +465,7 @@ namespace Project
                         else
                         {
                             Console.WriteLine("***SORRY, PLEASE SELECT 1-4 IN A AND B ONLY.***");
-                            Console.WriteLine();
+                            Console.WriteLine();    //kimerxa
                         }
                     }
                     else
